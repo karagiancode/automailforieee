@@ -4,7 +4,7 @@ from email.message import EmailMessage
 
 #to mail
 mymail="ieeeihuthessaloniki@gmail.com"
-mypassword="hgdtwuasdkjxkjpj"
+mypassword="password"
 
 #pairnei plhroforiew apo to excel
 def getname(i):
